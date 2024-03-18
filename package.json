@@ -1,0 +1,22 @@
+{
+  "name": "cow-say",
+  "version": "1.0.0",
+  "description": "fichier manifeste relatif à la quête cow say",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/YannDuhamel/cow-say.git"
+  },
+  "author": "YD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YannDuhamel/cow-say/issues"
+  },
+  "homepage": "https://github.com/YannDuhamel/cow-say#readme",
+  "dependencies": {
+    "cowsay": "^1.6.0"
+  }
+}
